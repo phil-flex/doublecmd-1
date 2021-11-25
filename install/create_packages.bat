@@ -70,3 +70,4 @@ rem Clean temp directories
 cd \
 rm -rf %BUILD_DC_TMP_DIR%
 rm -rf %BUILD_PACK_DIR%
+
